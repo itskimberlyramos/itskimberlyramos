@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itskimberlyramos
 - 👀 I’m interested in beocming proficient in Java.
-- 🌱 I’m currently learning Java
 - 📫 How to reach me:
 - Email: kimberlyramos101@icloud.com
 
