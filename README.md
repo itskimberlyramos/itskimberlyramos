@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @itskimberlyramos
-- 👀 I’m interested in beocming proficient in Java.
+- 👀 I’m interested in solidifying my skills in Python and Java.
 - 📫 Email: ypy966@mocs.utc.edu
-- I am a student majoring in computer engineering.
+- I am a student majoring in computer engineering. I hope to work with AI and emerging tech after graduation.
